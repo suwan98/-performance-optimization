@@ -7,4 +7,4 @@
 - 👉 1장 블로그 서비스 최적화 ( 진행중..💭 )
 - 👉 2장 올림픽 통계 서비스 최적화 ( [올림픽 통계서비스 최적화](https://github.com/suwan98/performance-optimization/tree/master/olympic) )
 - 👉 3장 홈페이지 최적화 ( 진행중..💭 )
-- 👉 4장 이미지 갤러리 최적화 ( [올림픽 통계서비스 최적화](https://github.com/suwan98/performance-optimization/tree/master/image-gallery) )
+- 👉 4장 이미지 갤러리 최적화 ( [이미지 갤러리 최적화](https://github.com/suwan98/performance-optimization/tree/master/image-gallery) )
